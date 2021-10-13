@@ -50,8 +50,14 @@ body {
 	max-width: 1280px;
 }
 
-.carousel-sec {
-	height: 85vh;
+
+.bg-green {
+	-webkit-text-fill-color: transparent;
+	max-width: 756px;
+	margin: 0px 0px 32px;
+	letter-spacing: 1px;
+	color: rgb(130, 249, 161);
+	background: rgba(0, 0, 0, 0) linear-gradient(rgb(176, 251, 188), rgb(130, 249, 161)) repeat scroll 0% 0% padding-box text;
 }
 
 .navbar-toggler {}
